@@ -1,1 +1,11 @@
+# Godot engine runtime files
+.godot/
+.import/
 
+# User-specific configuration
+.godot/editor/
+*.import
+
+# OS generated files
+.DS_Store
+Thumbs.db
